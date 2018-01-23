@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/SeedJobs/devops-go-tests/nearest-relative/problem"
-	"github.com/SeedJobs/devops-go-tests/nearest-relative/test"
+	"github.com/SeedJobs/devops-go-problems/nearest-relative/problem"
+	"github.com/SeedJobs/devops-go-problems/nearest-relative/test"
 )
 
 func BenchmarkGetNearestRelative(b *testing.B) {

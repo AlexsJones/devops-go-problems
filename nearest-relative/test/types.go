@@ -1,6 +1,6 @@
 package types
 
-import "github.com/SeedJobs/devops-go-tests/nearest-relative/problem"
+import "github.com/SeedJobs/devops-go-problems/nearest-relative/problem"
 
 type SimpleNode struct {
 	*SimpleNode

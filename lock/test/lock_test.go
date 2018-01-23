@@ -3,7 +3,7 @@ package lock_test
 import (
 	"testing"
 
-	"github.com/SeedJobs/devops-go-tests/lock/problem"
+	"github.com/SeedJobs/devops-go-problems/lock/problem"
 )
 
 func TestDefaultLock(t *testing.T) {

@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/SeedJobs/devops-go-tests/bit.ly/problem"
+	"github.com/SeedJobs/devops-go-problems/bit.ly/problem"
 )
 
 const testURL = "www.beamery.com"

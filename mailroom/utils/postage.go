@@ -34,6 +34,9 @@ func PostageReader(path string) ([][]byte, error) {
       content = append(content, append(scanner.Bytes(), '\n')...)
     }
   }
+  if len(content) >0 {
+    contents = append(contents, content[:len(content)-1])
+  }
   if err = scanner.Err(); err != nil {
     return nil, err
   }

@@ -26,4 +26,7 @@ func main() {
       }
       fmt.Printf("Sending %v to %v\n", count, state)
     }
+    for _, post := range mailroom.UndeliverablePost() {
+      fmt.Println("Can not post:", post)
+    }
 }

@@ -1,20 +1,102 @@
-[{"postcode":"5839","address":"94 Johnson Street","state":"South Australia"},
-{"postcode":"1424","address":"704 Summer Ridge Terrace","state":"New South Wales"},
-{"postcode":"1120","address":"29 David Pass","state":"New South Wales"},
-{"postcode":"1191","address":"5818 Grim Avenue","state":"New South Wales"},
-{"postcode":"1140","address":"9 Anniversary Plaza","state":"New South Wales"},
-{"postcode":"1043","address":"69935 Forest Dale Drive","state":"New South Wales"},
-{"postcode":"1134","address":"39 Fisk Crossing","state":"New South Wales"},
-{"postcode":"5874","address":"1 Maple Wood Court","state":"South Australia"},
-{"postcode":"6843","address":"663 Lotheville Circle","state":"Western Australia"},
-{"postcode":"1391","address":"33660 Oneill Court","state":"New South Wales"},
-{"postcode":"1120","address":"8698 Dryden Circle","state":"New South Wales"},
-{"postcode":"5889","address":"2542 North Terrace","state":"South Australia"},
-{"postcode":"1130","address":"9375 Kenwood Crossing","state":"New South Wales"},
-{"postcode":"7803","address":"91 Atwood Point","state":"Tasmania"},
-{"postcode":"L4S","address":"4 Buena Vista Lane","state":"Northwest Territories"},
-{"postcode":"1315","address":"960 Golden Leaf Trail","state":"New South Wales"},
-{"postcode":"1109","address":"48 Emmet Way","state":"New South Wales"},
-{"postcode":"1694","address":"07 Lerdahl Crossing","state":"New South Wales"},
-{"postcode":"1028","address":"1104 Sachs Parkway","state":"New South Wales"},
-{"postcode":"1191","address":"9 Scoville Lane","state":"New South Wales"}]
+[
+  {
+    "state": "New South Wales",
+    "postcode": 1636,
+    "address": "0556 Rusk Lane"
+  },
+  {
+    "state": "New South Wales",
+    "postcode": 1983,
+    "address": "4 Kennedy Road"
+  },
+  {
+    "state": "Western Australia",
+    "postcode": 6735,
+    "address": "3 Meadow Vale Trail"
+  },
+  {
+    "state": "Tasmania",
+    "postcode": 7998,
+    "address": "6 Orin Point"
+  },
+  {
+    "state": "New South Wales",
+    "postcode": 1150,
+    "address": "33 7th Trail"
+  },
+  {
+    "state": "New South Wales",
+    "postcode": 1538,
+    "address": "3 Monterey Court"
+  },
+  {
+    "state": "Queensland",
+    "postcode": 4362,
+    "address": "59918 Hollow Ridge Avenue"
+  },
+  {
+    "state": "New South Wales",
+    "postcode": 1215,
+    "address": "7013 Charing Cross Point"
+  },
+  {
+    "state": "New South Wales",
+    "postcode": 1506,
+    "address": "7 Springview Avenue"
+  },
+  {
+    "state": "New South Wales",
+    "postcode": 1914,
+    "address": "990 Hovde Road"
+  },
+  {
+    "state": "New South Wales",
+    "postcode": 1207,
+    "address": "818 Mariners Cove Drive"
+  },
+  {
+    "state": "Tasmania",
+    "postcode": 7298,
+    "address": "97904 Westridge Point"
+  },
+  {
+    "state": "South Australia",
+    "postcode": 5565,
+    "address": "249 Russell Road"
+  },
+  {
+    "state": "Tasmania",
+    "postcode": 7964,
+    "address": "96535 Miller Drive"
+  },
+  {
+    "state": "New South Wales",
+    "postcode": 1705,
+    "address": "7 Chive Junction"
+  },
+  {
+    "state": "New South Wales",
+    "postcode": 1249,
+    "address": "74457 Straubel Drive"
+  },
+  {
+    "state": "New South Wales",
+    "postcode": 1203,
+    "address": "368 Schiller Place"
+  },
+  {
+    "state": "South Australia",
+    "postcode": 5152,
+    "address": "5 Esch Terrace"
+  },
+  {
+    "state": "New South Wales",
+    "postcode": 1718,
+    "address": "6 Northport Park"
+  },
+  {
+    "state": "New South Wales",
+    "postcode": 1189,
+    "address": "2601 Mockingbird Point"
+  }
+]

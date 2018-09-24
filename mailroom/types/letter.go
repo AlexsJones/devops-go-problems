@@ -9,4 +9,8 @@ type Letter interface {
 
 	// GetPostcode returns the numerical postcode
 	GetPostcode() int
+
+	// Valid will check to see if it is a valid letter and if it can
+	// be sent to the correct address
+	Valid() bool
 }

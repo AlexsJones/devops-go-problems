@@ -9,4 +9,13 @@ var (
 		"Western Australia": "WA",
 		"Tasmania":          "TAS",
 	}
+
+	Expanded = map[string]string{
+		"NSW": "New South Wales",
+		"VIC": "Victoria",
+		"QLD": "Queensland",
+		"SA":  "South Australia",
+		"WA":  "Western Australia",
+		"TAS": "Tasmania",
+	}
 )

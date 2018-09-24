@@ -6,10 +6,8 @@ The international mail organisation is looking at improving their mail delivery 
 | State/Territory              | Abbreviation | Postcode range      |
 | ---------------------------- | ------------ | ------------------- |
 | New South Wales              | NSW          | 1000—2999           |
-| Australian Capital Territory | ACT          | 0200—0299           |
 | Victoria                     | VIC          | 3000—3999 8000—8999 |
 | Queensland                   | QLD          | 4000—4999 9000—9999 |
 | South Australia              | SA           | 5000—5999           |
 | Western Australia            | WA           | 6000—6999           |
 | Tasmania                     | TAS          | 7000—7999           |
-| Northern Territory           | NT           | 0800—0999           |

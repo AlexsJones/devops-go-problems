@@ -1,6 +1,7 @@
 package solution_test
 
 import (
+	"os"
 	"testing"
 
 	"github.com/SeedJobs/devops-go-problems/mailroom/solution"
@@ -36,6 +37,19 @@ func TestBadBasicFunctionality(t *testing.T) {
 	}
 	if _, err := mailroom.ProcessLetter("notexist"); err == nil {
 		t.Error("Failed to check if file exists")
+	}
+	// Having to set the bad file permissions during test as it will
+	// fail to load to git if it misses r
+	badfile, err := os.Open("../letters/bad-file")
+	if err != nil {
+		t.Error("Unable to load file due to:", err)
+	}
+	defer badfile.Chmod(0640)
+	if err = badfile.Chmod(240); err != nil {
+		t.Error("Unable to remove r due to:", err)
+	}
+	if _, err = mailroom.ProcessLetter("../letters/bad-file"); err != nil {
+		t.Error("Mailroom should not be able to load bad-file")
 	}
 }
 

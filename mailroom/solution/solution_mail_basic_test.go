@@ -48,7 +48,7 @@ func TestBadBasicFunctionality(t *testing.T) {
 	if err = badfile.Chmod(240); err != nil {
 		t.Error("Unable to remove r due to:", err)
 	}
-	if _, err = mailroom.ProcessLetter("../letters/bad-file"); err != nil {
+	if _, err = mailroom.ProcessLetter("../letters/bad-file"); err == nil {
 		t.Error("Mailroom should not be able to load bad-file")
 	}
 }

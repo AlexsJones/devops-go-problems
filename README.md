@@ -1,5 +1,10 @@
 # DevOps Go Problems
 
-Please make sure you clone to the correct GOPATH of:
+To get started, please make sure this is checked out into the correct go path.
 
-${GOPATH}/src/github.com/SeedJobs/devops-go-problems
+```
+mkdir ${GOPATH}/src/github.com/SeedJobs/devops-go-problems
+cd ${GOPATH}/src/github.com/SeedJobs/devops-go-problems
+git clone https://github.com/SeedJobs/devops-go-problems.git
+```
+Then just open up in your favourite IDE.

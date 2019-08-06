@@ -3,7 +3,7 @@ package solution_test
 import (
 	"testing"
 
-	"github.com/SeedJobs/devops-go-problems/mailroom/solution"
+	"github.com/AlexsJones/devops-go-problems/mailroom/solution"
 )
 
 func TestMixedContentBundle(t *testing.T) {

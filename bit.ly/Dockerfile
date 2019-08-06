@@ -1,6 +1,6 @@
 FROM golang:alpine
 
-WORKDIR /go/src/github.com/SeedJobs/devops-go-problems/bit.ly
+WORKDIR /go/src/github.com/AlexsJones/devops-go-problems/bit.ly
 COPY . .
 
 RUN apk add --no-cache git && \

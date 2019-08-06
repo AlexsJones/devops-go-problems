@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/SeedJobs/devops-go-problems/mailroom/types"
+	"github.com/AlexsJones/devops-go-problems/mailroom/types"
 )
 
 // readContent will take a path to a json file that contains

@@ -6,8 +6,8 @@ import (
 	"os"
 	"path"
 
-	"github.com/SeedJobs/devops-go-problems/mailroom/solution"
-	"github.com/SeedJobs/devops-go-problems/mailroom/types"
+	"github.com/AlexsJones/devops-go-problems/mailroom/solution"
+	"github.com/AlexsJones/devops-go-problems/mailroom/types"
 )
 
 const (

@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/SeedJobs/devops-go-problems/lock/problem"
+	"github.com/AlexsJones/devops-go-problems/lock/problem"
 	ui "github.com/gizak/termui"
 )
 

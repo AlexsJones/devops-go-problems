@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/SeedJobs/devops-go-problems/bit.ly/problem"
+	"github.com/AlexsJones/devops-go-problems/bit.ly/problem"
 	"github.com/gorilla/mux"
 )
 

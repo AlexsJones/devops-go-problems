@@ -3,8 +3,8 @@ package types_test
 import (
 	"testing"
 
-	"github.com/SeedJobs/devops-go-problems/nearest-relative/problem"
-	"github.com/SeedJobs/devops-go-problems/nearest-relative/test"
+	"github.com/AlexsJones/devops-go-problems/nearest-relative/problem"
+	"github.com/AlexsJones/devops-go-problems/nearest-relative/test"
 )
 
 func TestTreeOfOne(t *testing.T) {

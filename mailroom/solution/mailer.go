@@ -1,7 +1,7 @@
 package solution
 
 import (
-	"github.com/SeedJobs/devops-go-problems/mailroom/types"
+	"github.com/AlexsJones/devops-go-problems/mailroom/types"
 )
 
 type mailer struct {

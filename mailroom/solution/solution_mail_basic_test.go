@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/SeedJobs/devops-go-problems/mailroom/solution"
-	"github.com/SeedJobs/devops-go-problems/mailroom/types"
+	"github.com/AlexsJones/devops-go-problems/mailroom/solution"
+	"github.com/AlexsJones/devops-go-problems/mailroom/types"
 )
 
 func TestBasicFunctionality(t *testing.T) {
